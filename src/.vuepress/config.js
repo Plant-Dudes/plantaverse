@@ -47,7 +47,7 @@ const themeConfigDefaults = {
     { text: 'About', link: 'https://ipfs.io/#why' },
     // { text: 'Install', link: 'https://ipfs.io/#install' },
     // { text: 'Docs', link: 'https://docs.ipfs.io/' },
-    { text: 'Team', link: 'https://ipfs.io/team' },
+    { text: 'Team', link: '.components/team/Team.vue' }, // TODO: figure out how to link to new vue page
     { text: 'Blog', link: '/' },
     // { text: 'Help', link: 'https://ipfs.io/help' },
   ],
