@@ -1,34 +1,32 @@
 ---
-date: 2015-05-05
+date: 2022-03-01
 permalink: /0-hello-worlds/
-title: Hello Worlds
+title: Hello World
 description:
-author: Juan Benet
+author: Sam Garcia
 tags:
   - 'community'
 ---
 
-```sh
+<!-- ```sh
 > echo "hello worlds" | ipfs add
 added QmZ4tDuvesekSs4qM5ZBKpXiZGun7S2CYtEZRB3DYXkjGx
 > ipfs cat QmZ4tDuvesekSs4qM5ZBKpXiZGun7S2CYtEZRB3DYXkjGx
 hello worlds
-```
+``` -->
 
-Greetings Internet!
+__Greetings web3 fans!__
 
-This post kicks off the official IPFS (InterPlanetary File System) Blog. This is long overdue -- the project is many months old. We will be making a series of posts explaining various aspects of IPFS, its development, our growing community, and so on. This blog will also be used to make all important announcements henceforth.
+This post kicks off the official Plantaverse Blog. We will be making a series of posts explaining various aspects of web3, blockchain, crypto, our growing community, and so on. This blog will also be used to make important announcements.
 
 <!--more-->
 
-You can't _yet_ "follow" the blog with ipfs, but we're working on it and expect to have it working soon. For now, you can follow one of these ways:
+Here are some of our social media links you can follow to also get our latest updates :)
 
-- HTTP: https://blog.ipfs.io
-- Git: `git clone https://github.com/ipfs/blog`
-- GitHub: click watch at https://github.com/ipfs/blog
-- RSS: [follow RSS Feed](https://blog.ipfs.io/index.xml)
-- IPFS: https://gateway.ipfs.io/ipns/blog.ipfs.io
+- [Twitter @plantdudesnft](https://twitter.com/plantdudesnft)
+- [Instagram @plantdudesnft](https://www.instagram.com/plantdudesnft/)
+- [Plant Dudes Website](plantdudes.io)
 
-Don't miss any InterPlanetary updates!
+Don't miss any Plantaverse updates!
 
 ![](../assets/000-hello-worlds-earthrise.png)

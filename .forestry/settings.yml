@@ -58,13 +58,13 @@ sections:
   - newslinks
 - type: heading
   label: Translations
-- type: directory
-  path: src/_blog_zh
-  label: Chinese blog posts
-  create: documents
-  match: "**/*"
-  templates:
-  - blog-post
+# - type: directory
+#   path: src/_blog_zh
+#   label: Chinese blog posts
+#   create: documents
+#   match: "**/*"
+#   templates:
+#   - blog-post
 upload_dir: src/assets
 public_path: "../assets"
 front_matter_path: ''

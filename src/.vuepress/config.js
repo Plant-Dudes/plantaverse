@@ -197,21 +197,21 @@ module.exports = {
               lengthPerPage: Number.MAX_SAFE_INTEGER,
             },
           },
-          {
-            id: 'blog_zh',
-            dirname: '_blog_zh',
-            path: '/zh-cn/',
-            itemPermalink: '/zh-cn/:slug',
-            layout: 'Blog',
-            itemLayout: 'BlogPost',
-            frontmatter: {
-              title: 'Home',
-              description: 'Blog, news & more',
-            },
-            pagination: {
-              lengthPerPage: Number.MAX_SAFE_INTEGER,
-            },
-          },
+          // {
+          //   id: 'blog_zh',
+          //   dirname: '_blog_zh',
+          //   path: '/zh-cn/',
+          //   itemPermalink: '/zh-cn/:slug',
+          //   layout: 'Blog',
+          //   itemLayout: 'BlogPost',
+          //   frontmatter: {
+          //     title: 'Home',
+          //     description: 'Blog, news & more',
+          //   },
+          //   pagination: {
+          //     lengthPerPage: Number.MAX_SAFE_INTEGER,
+          //   },
+          // },
         ],
       },
     ],

@@ -16,10 +16,10 @@
       ©
       <a
         class="text-blueGreenLight hover:underline"
-        href="https://protocol.ai"
+        href="https://plantaverse.io"
         target="_blank"
         @click="onLinkClick"
-        >Protocol Labs</a
+        >Plantaverse</a
       >
       | Except as
       <a
@@ -36,6 +36,7 @@
         @click="onLinkClick"
         >CC-BY 3.0</a
       >
+      <!-- TODO: terms of service, privacy policy, copyright -->
       |
       <a
         class="text-blueGreenLight hover:underline"
