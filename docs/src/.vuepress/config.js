@@ -28,7 +28,7 @@ module.exports = {
    */
   themeConfig: {
     repo: '',
-    base: '/plantaverse/',
+    base: '/plant-dudes.github.io/plantaverse/',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
