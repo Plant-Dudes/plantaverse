@@ -28,7 +28,7 @@ module.exports = {
    */
   themeConfig: {
     repo: '',
-    // base: '/',
+    base: '/plantaverse/',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
