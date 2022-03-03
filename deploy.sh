@@ -12,6 +12,7 @@ npm run --prefix docs build
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
 
+git add .
 git commit -m 'deploy site'
 
 # if you are deploying to https://<USERNAME>.github.io
