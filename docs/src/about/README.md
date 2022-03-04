@@ -1,1 +1,0 @@
-About us details go here

@@ -1,0 +1,15 @@
+{
+  "name": "plantaverse",
+  "version": "1.0.0",
+  "description": "web3 edu platform",
+  "license": "mit",
+  "scripts": {
+    "docs:build": "vuepress build site",
+    "docs:clean-dev": "vuepress dev site --clean-cache",
+    "docs:dev": "vuepress dev site"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.36",
+    "vuepress-theme-hope": "^2.0.0-beta.0"
+  }
+}

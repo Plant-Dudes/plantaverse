@@ -1,2 +1,0 @@
-
-Team details go here
