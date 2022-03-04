@@ -3631,15 +3631,6 @@
     vue "^3.2.28"
     workbox-build "^6.4.2"
 
-"@vuepress/plugin-register-components@2.0.0-beta.36":
-  version "2.0.0-beta.36"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-register-components/-/plugin-register-components-2.0.0-beta.36.tgz#b6b5bb5134e6d571d2384ae9af69b4285f99ff21"
-  integrity sha512-ciIDC8t4r9n1wbVVwvfcOY/iZ2s8tka3XThs1zrfja2l7TI9BX6+wCT9N/TO+1pOjYhn6938FmTrv4kK69eRFA==
-  dependencies:
-    "@vuepress/core" "2.0.0-beta.36"
-    "@vuepress/utils" "2.0.0-beta.35"
-    chokidar "^3.5.3"
-
 "@vuepress/plugin-shiki@2.0.0-beta.36":
   version "2.0.0-beta.36"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-shiki/-/plugin-shiki-2.0.0-beta.36.tgz#6ec2d79dfcc655cbe3e18d38d502bafa2932d8dc"
@@ -6997,10 +6988,10 @@ escodegen@^2.0.0:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-config-prettier@8.4.0:
-  version "8.4.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.4.0.tgz#8e6d17c7436649e98c4c2189868562921ef563de"
-  integrity sha512-CFotdUcMY18nGRo5KGsnNxpznzhkopOcOo0InID+sgQssPrzjvsyKZPvOgymTFeHrFuC3Tzdf2YndhXtULK9Iw==
+eslint-config-prettier@8.5.0:
+  version "8.5.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.5.0.tgz#5a81680ec934beca02c7b1a61cf8ca34b66feab1"
+  integrity sha512-obmWKLUNCnhtQRKc+tmnYuQl0pFU1ibYJQ5BGhTVB08bHe9wC8qUeG7c08dj9XX+AuPj1YSGSQIHl1pnDHZR0Q==
 
 eslint-plugin-prettier@4.0.0:
   version "4.0.0"
