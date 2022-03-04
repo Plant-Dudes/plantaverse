@@ -1,0 +1,181 @@
+{
+  "hash": "6891410a",
+  "browserHash": "8c2499b4",
+  "optimized": {
+    "vue": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/vue.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/vue-router.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "needsInterop": false
+    },
+    "@vue/devtools-api": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/@vue_devtools-api.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "needsInterop": false
+    },
+    "katex": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/katex.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/katex/dist/katex.mjs",
+      "needsInterop": false
+    },
+    "@mr-hope/vuepress-shared/lib/client": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/@mr-hope_vuepress-shared_lib_client.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/@mr-hope/vuepress-shared/lib/client/index.js",
+      "needsInterop": false
+    },
+    "axios": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/axios.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/axios/index.js",
+      "needsInterop": true
+    },
+    "nprogress": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/nprogress.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/nprogress/nprogress.js",
+      "needsInterop": true
+    },
+    "lodash.debounce": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/lodash_debounce.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/lodash.debounce/index.js",
+      "needsInterop": true
+    },
+    "@vueuse/core": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/@vueuse_core.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/@vueuse/core/index.mjs",
+      "needsInterop": false
+    },
+    "@waline/client": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/@waline_client.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/@waline/client/dist/Waline.min.js",
+      "needsInterop": true
+    },
+    "flowchart.js": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/flowchart_js.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/flowchart.js/index.js",
+      "needsInterop": true
+    },
+    "mermaid": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/mermaid.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/mermaid/dist/mermaid.esm.min.mjs",
+      "needsInterop": false
+    },
+    "reveal.js/dist/reveal.esm.js": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/reveal_js_dist_reveal_esm_js.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/reveal.js/dist/reveal.esm.js",
+      "needsInterop": false
+    },
+    "reveal.js/plugin/markdown/markdown.esm.js": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/reveal_js_plugin_markdown_markdown_esm_js.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/reveal.js/plugin/markdown/markdown.esm.js",
+      "needsInterop": false
+    },
+    "reveal.js/plugin/highlight/highlight.esm.js": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/reveal_js_plugin_highlight_highlight_esm_js.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/reveal.js/plugin/highlight/highlight.esm.js",
+      "needsInterop": false
+    },
+    "reveal.js/plugin/math/math.esm.js": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/reveal_js_plugin_math_math_esm_js.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/reveal.js/plugin/math/math.esm.js",
+      "needsInterop": false
+    },
+    "reveal.js/plugin/search/search.esm.js": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/reveal_js_plugin_search_search_esm_js.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/reveal.js/plugin/search/search.esm.js",
+      "needsInterop": false
+    },
+    "reveal.js/plugin/notes/notes.esm.js": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/reveal_js_plugin_notes_notes_esm_js.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/reveal.js/plugin/notes/notes.esm.js",
+      "needsInterop": false
+    },
+    "reveal.js/plugin/zoom/zoom.esm.js": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/reveal_js_plugin_zoom_zoom_esm_js.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/reveal.js/plugin/zoom/zoom.esm.js",
+      "needsInterop": false
+    },
+    "photoswipe": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/photoswipe.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/photoswipe/dist/photoswipe.js",
+      "needsInterop": true
+    },
+    "photoswipe/dist/photoswipe-ui-default": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/photoswipe_dist_photoswipe-ui-default.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/photoswipe/dist/photoswipe-ui-default.js",
+      "needsInterop": true
+    },
+    "mitt": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/mitt.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/mitt/dist/mitt.mjs",
+      "needsInterop": false
+    },
+    "register-service-worker": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/register-service-worker.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/register-service-worker/index.js",
+      "needsInterop": false
+    },
+    "bcryptjs": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/bcryptjs.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/bcryptjs/dist/bcrypt.js",
+      "needsInterop": true
+    },
+    "body-scroll-lock": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/body-scroll-lock.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/body-scroll-lock/lib/bodyScrollLock.esm.js",
+      "needsInterop": false
+    },
+    "lodash.throttle": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/lodash_throttle.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/lodash.throttle/index.js",
+      "needsInterop": true
+    },
+    "dayjs": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/dayjs.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/dayjs/dayjs.min.js",
+      "needsInterop": true
+    },
+    "dayjs/plugin/localizedFormat": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/dayjs_plugin_localizedFormat.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/dayjs/plugin/localizedFormat.js",
+      "needsInterop": true
+    },
+    "dayjs/plugin/objectSupport": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/dayjs_plugin_objectSupport.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/dayjs/plugin/objectSupport.js",
+      "needsInterop": true
+    },
+    "dayjs/plugin/timezone": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/dayjs_plugin_timezone.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/dayjs/plugin/timezone.js",
+      "needsInterop": true
+    },
+    "dayjs/plugin/utc": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/dayjs_plugin_utc.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/dayjs/plugin/utc.js",
+      "needsInterop": true
+    },
+    "three": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/three.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/three/build/three.module.js",
+      "needsInterop": false
+    },
+    "three/examples/jsm/controls/OrbitControls": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/three_examples_jsm_controls_OrbitControls.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/three/examples/jsm/controls/OrbitControls.js",
+      "needsInterop": false
+    },
+    "three/examples/jsm/loaders/STLLoader": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/three_examples_jsm_loaders_STLLoader.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/three/examples/jsm/loaders/STLLoader.js",
+      "needsInterop": false
+    },
+    "@vuepress/shared": {
+      "file": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/src/.vuepress/.cache/@vuepress_shared.js",
+      "src": "C:/Users/saman/Desktop/vuepress-theme-hope-main/vuepress-theme-hope-main/docs/theme/node_modules/@vuepress/shared/lib/esm/index.js",
+      "needsInterop": false
+    }
+  }
+}

@@ -1,0 +1,153 @@
+.blog-hero {
+  position: relative;
+  height: 450px;
+  margin-bottom: 1rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  color: #eee;
+  font-family: var(--font-family-fancy);
+
+  @media (max-width: hope-config.$mobile) {
+    height: 350px;
+    margin: 0 -1.5rem 1rem;
+  }
+
+  @media (max-width: hope-config.$mobileS) {
+    margin: 0 0 1rem;
+  }
+
+  &.fullscreen {
+    height: calc(100vh - var(--navbar-height)) !important;
+
+    @media (max-width: hope-config.$pad) {
+      height: calc(100vh - var(--navbar-mobile-height)) !important;
+    }
+
+    .mask {
+      background-position-y: top !important;
+    }
+
+    .slide-down-wrapper {
+      display: block;
+    }
+  }
+
+  .mask {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    &:after {
+      display: block;
+      content: " ";
+      background: var(--light-grey);
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 1;
+      opacity: 0.2;
+    }
+  }
+
+  & > :not(.mask) {
+    position: relative;
+    z-index: 2;
+  }
+
+  h1 {
+    margin: 0.5rem auto;
+    font-size: 2rem;
+
+    @media (max-width: hope-config.$pad) {
+      font-size: 1.875rem;
+    }
+
+    @media (max-width: hope-config.$mobile) {
+      font-size: 2rem;
+    }
+
+    @media (max-width: hope-config.$mobileS) {
+      font-size: 1.875rem;
+    }
+  }
+
+  .hero-logo + h1 {
+    margin: 0 auto;
+  }
+
+  .description {
+    margin: 1.2rem auto 0;
+    font-size: 20px;
+
+    @media (max-width: hope-config.$pad) {
+      font-size: 18px;
+    }
+
+    @media (max-width: hope-config.$mobile) {
+      font-size: 20px;
+    }
+
+    @media (max-width: hope-config.$mobileS) {
+      font-size: 18px;
+    }
+  }
+
+  .slide-down-wrapper {
+    display: none;
+    position: absolute;
+    left: calc(50vw - 50px);
+    bottom: 0;
+
+    width: 60px;
+    height: 50px;
+    padding: 20px;
+
+    .icon {
+      width: 40px;
+      margin: -10px 10px;
+      animation-name: bounce-down;
+      animation-duration: 0.75s;
+      animation-timing-function: linear;
+      animation-direction: alternate;
+      animation-iteration-count: infinite;
+
+      &:first-child {
+        color: rgba(255, 255, 255, 0.15);
+      }
+
+      &:nth-child(2) {
+        color: rgba(255, 255, 255, 0.5);
+      }
+    }
+
+    #hero-bottom {
+      position: absolute;
+      bottom: 0;
+
+      margin-top: calc(0rem - var(--navbar-height));
+      padding-top: calc(var(--navbar-height));
+
+      @media (max-width: hope-config.$pad) {
+        margin-top: calc(0rem - var(--navbar-mobile-height));
+        padding-top: calc(var(--navbar-mobile-height));
+      }
+    }
+  }
+}
+
+@keyframes bounce-down {
+  from {
+    transform: translateY(-5px);
+  }
+
+  to {
+    transform: translateY(5px);
+  }
+}

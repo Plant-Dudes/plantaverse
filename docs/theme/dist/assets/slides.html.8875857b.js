@@ -1,0 +1,5 @@
+const e={key:"v-324f7884",path:"/guide/layout/slides.html",title:"Slide",lang:"en-US",frontmatter:{title:"Slide",icon:"slides",category:["Layout"],tag:["Layout","Slides"],summary:`vuepress-theme-hope allows you to add slides pages.
+You need to set layout: Slide in the frontmatter of the corresponding page to enable the slides page.
+`,head:[["meta",{property:"og:url",content:"https://vuepress-theme-hope-v2.netlify.app/guide/layout/slides.html"}],["meta",{property:"og:title",content:"Slide"}],["meta",{property:"og:type",content:"article"}],["meta",{property:"og:locale",content:"en-US"}],["meta",{property:"og:locale:alternate",content:"zh-CN"}],["meta",{name:"twitter:card",content:"summary_large_image"}],["meta",{property:"article:tag",content:"Layout"}],["meta",{property:"article:tag",content:"Slides"}]]},excerpt:`<p><code>vuepress-theme-hope</code> allows you to add slides pages.</p>
+<p>You need to set <code>layout: Slide</code> in the frontmatter of the corresponding page to enable the slides page.</p>
+`,headers:[],git:{},readingTime:{minutes:.3,words:91},filePathRelative:"guide/layout/slides.md"};export{e as data};
