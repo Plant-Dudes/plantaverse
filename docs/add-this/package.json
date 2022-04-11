@@ -23,7 +23,7 @@
     "three": "0.138.2",
     "vuepress-plugin-add-this": "2.0.0-beta.0",
     "vuepress-theme-hope": "2.0.0-beta.0",
-    "vuepress-vite": "2.0.0-beta.36",
+    "vuepress-vite": "2.0.0-beta.39",
     "vuepress-webpack": "2.0.0-beta.36"
   }
 }
