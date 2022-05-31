@@ -54,7 +54,7 @@
     "vuepress-plugin-sass-palette": "2.0.0-beta.0"
   },
   "devDependencies": {
-    "@vuepress/core": "2.0.0-beta.36"
+    "@vuepress/core": "2.0.0-beta.46"
   },
   "publishConfig": {
     "access": "public"
