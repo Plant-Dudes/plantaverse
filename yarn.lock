@@ -3631,15 +3631,6 @@
     vue "^3.2.28"
     workbox-build "^6.4.2"
 
-"@vuepress/plugin-register-components@2.0.0-beta.36":
-  version "2.0.0-beta.36"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-register-components/-/plugin-register-components-2.0.0-beta.36.tgz#b6b5bb5134e6d571d2384ae9af69b4285f99ff21"
-  integrity sha512-ciIDC8t4r9n1wbVVwvfcOY/iZ2s8tka3XThs1zrfja2l7TI9BX6+wCT9N/TO+1pOjYhn6938FmTrv4kK69eRFA==
-  dependencies:
-    "@vuepress/core" "2.0.0-beta.36"
-    "@vuepress/utils" "2.0.0-beta.35"
-    chokidar "^3.5.3"
-
 "@vuepress/plugin-shiki@2.0.0-beta.36":
   version "2.0.0-beta.36"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-shiki/-/plugin-shiki-2.0.0-beta.36.tgz#6ec2d79dfcc655cbe3e18d38d502bafa2932d8dc"
@@ -9589,10 +9580,10 @@ katex@^0.13.0:
   dependencies:
     commander "^8.0.0"
 
-katex@^0.15.2:
-  version "0.15.2"
-  resolved "https://registry.yarnpkg.com/katex/-/katex-0.15.2.tgz#c05ece41ab497597b17abca2cecde3e4c0127f9d"
-  integrity sha512-FfZ/f6f8bQdLmJ3McXDNTkKenQkoXkItpW0I9bsG2wgb+8JAY5bwpXFtI8ZVrg5hc1wo1X/UIhdkVMpok46tEQ==
+katex@^0.16.2:
+  version "0.16.2"
+  resolved "https://registry.yarnpkg.com/katex/-/katex-0.16.2.tgz#9d3dc2a7e65fb8aa31101b1f86888ec40eed7b24"
+  integrity sha512-70DJdQAyh9EMsthw3AaQlDyFf54X7nWEUIa5W+rq8XOpEk//w5Th7/8SqFqpvi/KZ2t6MHUj4f9wLmztBmAYQA==
   dependencies:
     commander "^8.0.0"
 
