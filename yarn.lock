@@ -2178,6 +2178,11 @@
     npmlog "^4.1.2"
     write-file-atomic "^3.0.3"
 
+"@mdit-vue/types@^0.11.0":
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/@mdit-vue/types/-/types-0.11.0.tgz#ab9c6f4e69d9c9eaabf1a73e59dc699875b224ef"
+  integrity sha512-ygCGP7vFpqS02hpZwEe1uz8cfImWX06+zRs08J+tCZRKb6k+easIaIHFtY9ZSxt7j9L/gAPLDo/5RmOT6z0DPQ==
+
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz#7619c2eb21b25483f6d167548b4cfd5a7488c3d5"
@@ -3388,10 +3393,15 @@
     "@vue/compiler-ssr" "3.2.31"
     "@vue/shared" "3.2.31"
 
-"@vue/shared@3.2.31", "@vue/shared@^3.2.28":
+"@vue/shared@3.2.31":
   version "3.2.31"
   resolved "https://registry.yarnpkg.com/@vue/shared/-/shared-3.2.31.tgz#c90de7126d833dcd3a4c7534d534be2fb41faa4e"
   integrity sha512-ymN2pj6zEjiKJZbrf98UM2pfDd6F2H7ksKw7NDt/ZZ1fh5Ei39X5tABugtT03ZRlWd9imccoK0hE8hpjpU7irQ==
+
+"@vue/shared@^3.2.28", "@vue/shared@^3.2.45":
+  version "3.2.45"
+  resolved "https://registry.yarnpkg.com/@vue/shared/-/shared-3.2.45.tgz#a3fffa7489eafff38d984e23d0236e230c818bc2"
+  integrity sha512-Ewzq5Yhimg7pSztDV+RH1UDKBzmtqieXQlpTVm2AwraoRL/Rks96mvd8Vgi7Lj+h+TH8dv7mXD3FRZR3TUvbSg==
 
 "@vuepress/bundler-vite@2.0.0-beta.36":
   version "2.0.0-beta.36"
@@ -3631,15 +3641,6 @@
     vue "^3.2.28"
     workbox-build "^6.4.2"
 
-"@vuepress/plugin-register-components@2.0.0-beta.36":
-  version "2.0.0-beta.36"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-register-components/-/plugin-register-components-2.0.0-beta.36.tgz#b6b5bb5134e6d571d2384ae9af69b4285f99ff21"
-  integrity sha512-ciIDC8t4r9n1wbVVwvfcOY/iZ2s8tka3XThs1zrfja2l7TI9BX6+wCT9N/TO+1pOjYhn6938FmTrv4kK69eRFA==
-  dependencies:
-    "@vuepress/core" "2.0.0-beta.36"
-    "@vuepress/utils" "2.0.0-beta.35"
-    chokidar "^3.5.3"
-
 "@vuepress/plugin-shiki@2.0.0-beta.36":
   version "2.0.0-beta.36"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-shiki/-/plugin-shiki-2.0.0-beta.36.tgz#6ec2d79dfcc655cbe3e18d38d502bafa2932d8dc"
@@ -3666,6 +3667,14 @@
   integrity sha512-sU+ekNDv22YG16B1XmZyMD+A94QbAUgTp5FTs+X2POU9UQCIZCuFhgTM9TfAnSgD/6lnbp2Aljwg5fJAidPQmw==
   dependencies:
     "@vue/shared" "^3.2.28"
+
+"@vuepress/shared@2.0.0-beta.60":
+  version "2.0.0-beta.60"
+  resolved "https://registry.yarnpkg.com/@vuepress/shared/-/shared-2.0.0-beta.60.tgz#5c5c682dedd2e1ef0e821f08321f74b787558113"
+  integrity sha512-bwFksEtSQpbyAGJZkvRK9Z2zGmS144nv759vOzbRUZPPlGffeauzrPw9w7wxqp3gTJvIE/4Ufqt0AZTuSP/F/g==
+  dependencies:
+    "@mdit-vue/types" "^0.11.0"
+    "@vue/shared" "^3.2.45"
 
 "@vuepress/theme-default@2.0.0-beta.36":
   version "2.0.0-beta.36"
