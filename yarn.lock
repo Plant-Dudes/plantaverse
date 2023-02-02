@@ -3631,15 +3631,6 @@
     vue "^3.2.28"
     workbox-build "^6.4.2"
 
-"@vuepress/plugin-register-components@2.0.0-beta.36":
-  version "2.0.0-beta.36"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-register-components/-/plugin-register-components-2.0.0-beta.36.tgz#b6b5bb5134e6d571d2384ae9af69b4285f99ff21"
-  integrity sha512-ciIDC8t4r9n1wbVVwvfcOY/iZ2s8tka3XThs1zrfja2l7TI9BX6+wCT9N/TO+1pOjYhn6938FmTrv4kK69eRFA==
-  dependencies:
-    "@vuepress/core" "2.0.0-beta.36"
-    "@vuepress/utils" "2.0.0-beta.35"
-    chokidar "^3.5.3"
-
 "@vuepress/plugin-shiki@2.0.0-beta.36":
   version "2.0.0-beta.36"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-shiki/-/plugin-shiki-2.0.0-beta.36.tgz#6ec2d79dfcc655cbe3e18d38d502bafa2932d8dc"
@@ -11922,10 +11913,10 @@ performance-now@^2.1.0:
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
   integrity sha1-Ywn04OX6kT7BxpMHrjZLSzd8nns=
 
-photoswipe@^4.1.3:
-  version "4.1.3"
-  resolved "https://registry.yarnpkg.com/photoswipe/-/photoswipe-4.1.3.tgz#59f49494eeb9ddab5888d03392926a19bc197550"
-  integrity sha512-89Z43IRUyw7ycTolo+AaiDn3W1EEIfox54hERmm9bI12IB9cvRfHSHez3XhAyU8XW2EAFrC+2sKMhh7SJwn0bA==
+photoswipe@^5.3.5:
+  version "5.3.5"
+  resolved "https://registry.yarnpkg.com/photoswipe/-/photoswipe-5.3.5.tgz#624f0f9f822aadb3b7e0289b1258944016de5a58"
+  integrity sha512-90JeebKBhjz1co9goGJ4vjDK84YhGKbLO8J/aKcoWS/OGddVZB77ONIs7igUKa0IB1HozTs0BiS184wzZCghMw==
 
 picocolors@^1.0.0:
   version "1.0.0"
